@@ -1,1 +1,19 @@
-
+{
+    "name": "deploy-buttons",
+    "version": "1.0.0",
+    "description": "heroku bot",
+    "scripts": {
+        "build": "python -m pip install telethon",
+        "start": "python3 reda.py"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/redaiq90/test-python.git"
+    },
+    "author": "Reda",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/redaiq90/deploy-buttons/issues"
+    },
+    "homepage": "https://github.com/redaiq90/deploy-buttons#readme"
+}
